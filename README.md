@@ -12,7 +12,8 @@
 
 
  🏆 Ngưỡng điểm tự đánh giá
-     9.5/10
+    
+     . 9.5/10
 
 📊 Lý do đề xuất điểm số
 
@@ -20,13 +21,13 @@
 
  1.Core Gameplay
 
-    Hệ thống 7 Tetromino chuẩn với physics chính xác
+  .  Hệ thống 7 Tetromino chuẩn với physics chính xác
 
-    Cơ chế Hard Drop (Space) và Soft Drop (Mũi tên xuống)
+  .  Cơ chế Hard Drop (Space) và Soft Drop (Mũi tên xuống)
 
-    Xử lý va chạm, xoay khối (Wall Kick)
+  .  Xử lý va chạm, xoay khối (Wall Kick)
 
-    Tự động lock piece sau khi move
+  .  Tự động lock piece sau khi move
 
  2.Hệ thống nâng cao
 
@@ -104,4 +105,4 @@
  
  🙏 Lời cảm ơn
               
-              Em xin chân thành cảm ơn thầy/cô đã tạo điều kiện để em thể hiện khả năng qua project này. Rất mong nhận được sự đánh giá công tâm từ thầy/cô!   
+          .    Em xin chân thành cảm ơn thầy/cô đã tạo điều kiện để em thể hiện khả năng qua project này. Rất mong nhận được sự đánh giá công tâm từ thầy/cô!   
