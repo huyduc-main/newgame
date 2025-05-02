@@ -1,6 +1,7 @@
 ## BÀI TẬP LỚN : TESTRIS GAME PROJECT
- Họ và tên sinh viên : Trần Huy Đức
- Mã số sinh viên : 23021401
+  Họ và tên sinh viên : Trần Huy Đức
+  
+  Mã số sinh viên : 23021401
  # Gioi thiệu về game 
   Đây là game Tetris cổ điển được phát triển bằng C++ với thư viện SDL2. Game bao gồm các tính năng cơ bản của Tetris như xoay/di chuyển khối gạch, tính điểm, tăng tốc độ theo level, cùng nhiều chế độ chơi và tùy chỉnh đặc biệt.
 🏆 Ngưỡng điểm tự đánh giá
