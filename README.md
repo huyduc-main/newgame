@@ -41,7 +41,8 @@
    . Menu lựa chọn độ khó (5 levels từ Easy đến Asian)
 
  🎮 Điều khiển
- ![image](https://github.com/user-attachments/assets/8a80ce7a-ebf9-4f7d-8419-c1f98dd770ad)
+
+  ![image](https://github.com/user-attachments/assets/8a80ce7a-ebf9-4f7d-8419-c1f98dd770ad)
 
  4.Giao diện đồ họa
 
