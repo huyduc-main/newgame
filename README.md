@@ -8,7 +8,7 @@
   
                        
                          
-                         ![image](https://github.com/user-attachments/assets/31895983-7b6a-4006-a8d7-3c0c783d2ca0)
+  #                       ![image](https://github.com/user-attachments/assets/31895983-7b6a-4006-a8d7-3c0c783d2ca0)
 
 
  🏆 Ngưỡng điểm tự đánh giá
@@ -42,8 +42,12 @@
  
 . Chế độ chơi đơn (SinglePlay)
 
+ # ![image](https://github.com/user-attachments/assets/9f5c6f9d-cb36-4612-b9a8-2bb09200527a)
+
 
 . Chế độ 2 người chơi (Player1/Player2)
+ 
+ # ![image](https://github.com/user-attachments/assets/efdaf533-2aa9-49ce-b6f8-1f30fb17c097)
 
 
 . Menu lựa chọn chế độ
@@ -64,7 +68,8 @@
 
   . Hiệu ứng âm thanh cho các hành động
 
-   
+   # ![image](https://github.com/user-attachments/assets/9b2c4931-b9d1-4a31-b65b-0b3112052989)
+
       
  5.Thuật toán đã cài đặt
 
