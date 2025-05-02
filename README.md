@@ -3,9 +3,10 @@
   
   Mã số sinh viên : 23021401
  # Gioi thiệu về game 
-  Đây là game Tetris cổ điển được phát triển bằng C++ với thư viện SDL2. Game bao gồm các tính năng cơ bản của Tetris như xoay/di chuyển khối gạch, tính điểm, tăng tốc độ theo level, cùng nhiều chế độ chơi và tùy chỉnh đặc biệt.
+
   
-                          ![image](https://github.com/user-attachments/assets/f56509f7-2b02-4361-a9d7-93db2cc28555)
+                         ![image](https://github.com/user-attachments/assets/31895983-7b6a-4006-a8d7-3c0c783d2ca0)
+
 
  🏆 Ngưỡng điểm tự đánh giá
      9.5/10
@@ -36,14 +37,13 @@
 
  3.Đa chế độ
 
-   . Chế độ Solo Classic
-
-   . Chế độ 2 người chơi local (PvP)
+   
     
+     
      ![image](https://github.com/user-attachments/assets/a99634ac-4443-4bf4-837d-3c3d951e96d3)
 
 
-   . Menu lựa chọn độ khó (5 levels từ Easy đến Asian)
+ 
     
      ![image](https://github.com/user-attachments/assets/9172a27c-f4ca-453e-b001-b2b44692118a)
 
@@ -55,13 +55,9 @@
 
  4.Giao diện đồ họa
 
-   . Sử dụng SDL2 để render đồ họa
+   
 
-   . Hệ thống button, text, animation
-
-   . Hiệu ứng âm thanh cho các hành động
-
-      ![image](https://github.com/user-attachments/assets/2b75a34f-955e-4e07-861a-9a62377532a9)
+   
       
       ![image](https://github.com/user-attachments/assets/eeee2a0f-7b14-4d3f-a0b4-46004bc66230)
 
