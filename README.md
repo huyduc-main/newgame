@@ -24,72 +24,60 @@
 
  2.Hệ thống nâng cao
 
-    Hold System: Giữ khối (phím C/L)
+   . Hold System: Giữ khối (phím C/L)
 
-    Next Queue: Hiển thị 3 khối tiếp theo
+   . Next Queue: Hiển thị 3 khối tiếp theo
 
-    Ghost Piece: Bóng mờ dự đoán vị trí đặt
+   . Ghost Piece: Bóng mờ dự đoán vị trí đặt
 
-    Scoring System: Tính điểm theo tiêu chuẩn Tetris Guideline
+   . Scoring System: Tính điểm theo tiêu chuẩn Tetris Guideline
 
  3.Đa chế độ
 
-    Chế độ Solo Classic
+   . Chế độ Solo Classic
 
-    Chế độ 2 người chơi local (PvP)
+   . Chế độ 2 người chơi local (PvP)
 
-    Menu lựa chọn độ khó (5 levels từ Easy đến Asian)
+   . Menu lựa chọn độ khó (5 levels từ Easy đến Asian)
 
  🎮 Điều khiển
- Chức năng 	   Player 1	    Player 2
- 
- Di chuyển trái	   ←	           A
- 
- Di chuyển phải	   →    	       D
- 
- Xoay khối      	↑	             W
-
- Soft Drop      	↓	             S
-
- Hard Drop 	    Space	         Space
-
- Hold	           C	            L
+ ![image](https://github.com/user-attachments/assets/8a80ce7a-ebf9-4f7d-8419-c1f98dd770ad)
 
  4.Giao diện đồ họa
 
-    Sử dụng SDL2 để render đồ họa
+   . Sử dụng SDL2 để render đồ họa
 
-    Hệ thống button, text, animation
+   . Hệ thống button, text, animation
 
-    Hiệu ứng âm thanh cho các hành động
+   . Hiệu ứng âm thanh cho các hành động
 
  5.Thuật toán đã cài đặt
 
-    Thuật toán xử lý va chạm khối gạch
+   . Thuật toán xử lý va chạm khối gạch
 
-    Thuật toán kiểm tra/xóa dòng hoàn chỉnh
+   . Thuật toán kiểm tra/xóa dòng hoàn chỉnh
 
-    Thuật toán sinh khối gạch ngẫu nhiên
+   . Thuật toán sinh khối gạch ngẫu nhiên
 
-    Thuật toán tính tốc độ rơi theo level
+   . Thuật toán tính tốc độ rơi theo level
 
  6.Các tính năng phụ trợ
 
-    Pause/Continue game
+   . Pause/Continue game
 
-    Countdown khi bắt đầu/bắt đầu lại
+   . Countdown khi bắt đầu/bắt đầu lại
 
-    Lưu cài đặt game
+   . Lưu cài đặt game
 
-    Xử lý sự kiện bàn phím linh hoạt
+   . Xử lý sự kiện bàn phím linh hoạt
  
  ⚠️ Cần cải thiện
   
-   Chưa implement multiplayer online
+  . Chưa implement multiplayer online
 
-   Thiếu hệ thống replay/save game
+  . Thiếu hệ thống replay/save game
 
-   Hiệu ứng hình ảnh có thể phong phú hơn
+  . Hiệu ứng hình ảnh có thể phong phú hơn
  
  🙏 Lời cảm ơn
               
