@@ -11,6 +11,7 @@
 📊 Lý do đề xuất điểm số
 
   ✅ Tính năng chính đã hoàn thiện
+
  1.Core Gameplay
 
     Hệ thống 7 Tetromino chuẩn với physics chính xác
