@@ -84,11 +84,13 @@
     Xử lý sự kiện bàn phím linh hoạt
  
  ⚠️ Cần cải thiện
-    Chưa implement multiplayer online
+  
+   Chưa implement multiplayer online
 
-    Thiếu hệ thống replay/save game
+   Thiếu hệ thống replay/save game
 
-    Hiệu ứng hình ảnh có thể phong phú hơn
+   Hiệu ứng hình ảnh có thể phong phú hơn
  
  🙏 Lời cảm ơn
-               Em xin chân thành cảm ơn thầy/cô đã tạo điều kiện để em thể hiện khả năng qua project này. Rất mong nhận được sự đánh giá công tâm từ thầy/cô!   
+              
+              Em xin chân thành cảm ơn thầy/cô đã tạo điều kiện để em thể hiện khả năng qua project này. Rất mong nhận được sự đánh giá công tâm từ thầy/cô!   
