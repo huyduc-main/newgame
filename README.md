@@ -105,4 +105,4 @@
  
  🙏 Lời cảm ơn
               
-          .    Em xin chân thành cảm ơn thầy/cô đã tạo điều kiện để em thể hiện khả năng qua project này. Rất mong nhận được sự đánh giá công tâm từ thầy/cô!   
+        . Em xin chân thành cảm ơn thầy/cô đã tạo điều kiện để em hoàn thành project này. Rất mong được sự đáng giá công tâm nhẹ nhàng từ thầy/cô ạ !!   
