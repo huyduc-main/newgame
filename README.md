@@ -52,6 +52,8 @@
 
 . Menu lựa chọn chế độ
    
+   # ![image](https://github.com/user-attachments/assets/8371f773-3cf9-46cf-a54c-d1424171c2d6)
+
     
   
 
