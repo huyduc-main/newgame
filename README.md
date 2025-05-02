@@ -40,13 +40,19 @@
     Menu lựa chọn độ khó (5 levels từ Easy đến Asian)
 
  🎮 Điều khiển
- Chức năng 	Player 1	 Player 2
- Di chuyển  trái	←	     A
- Di chuyển  phải	→    	 D
- Xoay khối 	↑	          W
- Soft Drop 	↓	          S
- Hard Drop 	Space	    Space
- Hold	      C	          L
+ Chức năng 	   Player 1	    Player 2
+ 
+ Di chuyển trái	   ←	           A
+ 
+ Di chuyển phải	   →    	       D
+ 
+ Xoay khối      	↑	             W
+
+ Soft Drop      	↓	             S
+
+ Hard Drop 	    Space	         Space
+
+ Hold	           C	            L
 
  4.Giao diện đồ họa
 
